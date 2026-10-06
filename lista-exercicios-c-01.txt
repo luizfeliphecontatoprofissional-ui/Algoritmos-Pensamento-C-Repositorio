@@ -19,7 +19,7 @@ Faça um programa que controle esse evento.
   b. a compra for superior a R$ 500.
 
 7. Depure o programa abaixo e corrija o erro se existir:
-"int idade = 20;
+int idade = 20;
 if (idade=18) {
     printf("Idade correta");
 }
