@@ -1,0 +1,92 @@
+Laços de repetição
+
+1. Apresente os números de 1 até 10 utilizando uma estrutura de repetição.  
+ 
+2. Leia um número inteiro N e apresente todos os números de 1 até N.   
+
+3. Receba um número do usuário e informe:
+	a. Quantos números divisíveis por 3 existem entre 0 e esse número.
+	b. Quantos números primos existem entre 0 e esse número. 
+  
+4. Leia números inteiros até que o usuário digite 0. 
+Ao final, apresente a soma e a quantidade de números informados.
+   
+5. Leia N preços de produtos e informe a média dos valores. 
+O programa deve finalizar quando o usuário digitar um preço negativo. 
+  
+Vetores
+
+6. Leia 5 números inteiros e armazene-os em um vetor. 
+Em seguida, apresente todos os elementos que são pares. 
+  
+7. Leia 10 números inteiros e apresente-os na ordem inversa. 
+  
+8. Leia 10 números inteiros e apresente a soma de todos os elementos do vetor.  
+ 
+9. Leia 10 números inteiros e informe quantos são pares.   
+
+10. Leia 10 números inteiros e determine o maior elemento do vetor.   
+
+11. Leia 10 números inteiros e mostre qual foi o valor repetido por mais vezes e quantas vezes esse valor aparece no vetor.   
+
+12. Leia 10 números inteiros e verifique se um valor informado pelo usuário está presente no vetor.   
+
+13. Leia 10 números inteiros e crie um segundo vetor contendo o dobro dos valores armazenados no primeiro.   
+
+14. Leia 10 números inteiros e determine:
+	a. maior elemento;
+	b. posição do maior elemento;   
+
+Matrizes
+
+15. Crie uma matriz 3x3, leia todos os seus elementos e exiba a matriz formatada na tela.   
+
+16. Leia uma matriz 4x4 e calcule a soma de todos os seus elementos.   
+
+17. Leia uma matriz 3x3 e determine o maior valor armazenado.   
+
+18. Leia uma matriz 2x3 e calcule a soma dos elementos da diagonal principal.   
+
+19. Leia uma matriz 5x5 e informe:
+	a. maior valor;
+	b. menor valor;
+	c. quantidade de números pares;
+	d. média dos elementos;   
+
+20. Se há algum elemento repetido.   
+
+Funções
+
+21. Crie uma função que receba um número inteiro e retorne seu dobro.   
+
+22. Crie uma função que receba dois números inteiros e retorne o maior deles.   
+
+23. Crie uma função que receba três notas e retorne a média aritmética.   
+
+24. Crie uma função que receba um número inteiro e retorne 1 caso ele seja par ou 0 caso seja ímpar.   
+
+25. Crie uma função que receba um vetor de 10 elementos e retorne a soma dos valores armazenados.   
+
+26. Crie uma função que receba um vetor de inteiros e retorne o maior elemento.   
+
+27. Crie uma função que receba um vetor e um valor X e informe se o valor está presente no vetor.   
+
+28. Crie uma função que receba uma matriz 3x3 e retorne a soma dos elementos da diagonal principal.   
+
+29. Crie uma função que receba uma matriz 4x4 e retorne o maior elemento armazenado.   
+
+Desafios
+
+30. Desenvolva um programa modularizado utilizando funções para:
+	a. ler uma matriz 5x5;
+	b. exibir a matriz;
+	c. calcular a soma dos elementos;
+	d. determinar o maior valor;
+	e. calcular a média dos elementos.   
+
+31. Desenvolva um sistema de notas escolares que:
+	a. utilize uma matriz para armazenar as notas de 5 alunos em 4 avaliações;
+	b. utilize funções para leitura, exibição e processamento;
+	c. calcule a média de cada aluno;
+	d. identifique o aluno com a maior média;
+	e. apresente um relatório final.
