@@ -1,0 +1,54 @@
+1. Leia 5 números inteiros e apresente-os na ordem em que foram digitados.
+
+2. Leia 10 números inteiros e apresente a soma dos valores digitados.
+
+3. Leia 8 números inteiros e apresente a média aritmética.
+
+4. Leia 10 números inteiros e informe quantos são pares.
+
+5. Leia 10 números inteiros e informe:
+  a. quantidade de números pares;
+  b. quantidade de números ímpares.   
+  
+6. Leia 10 números inteiros e determine:
+  a. maior valor;
+  b. menor valor.   
+  
+7. Leia 10 números inteiros e apresente-os na ordem inversa.
+
+8. Leia 10 números inteiros e calcule:
+  a. soma dos elementos;
+  b. média;
+  c. maior valor;
+  d. menor valor.   
+  
+9. Leia 10 números inteiros e um valor X. Informe se X está ou não presente no vetor.   
+
+10. Leia 10 números inteiros e um valor X. Informe:
+  a. se X está presente;
+  b. em qual posição foi encontrado.
+  c. Se não existir, informar isso ao usuário.   
+  
+11. Leia 15 números inteiros e determine quantas vezes um valor X aparece no vetor. 
+
+12. Leia 10 números inteiros e crie um segundo vetor contendo o dobro dos valores do primeiro. 
+
+13. Leia 10 números inteiros e determine se o vetor está em ordem crescente. 
+
+14. Leia 10 números inteiros e encontre:
+  a. maior valor;
+  b. posição do maior valor;
+  c. menor valor;
+  d. posição do menor valor.  
+  
+15. Leia números inteiros até que o usuário digite 0.
+Armazene os valores em um vetor (máximo 100 posições).
+Ao final apresente:
+  a. quantidade de números digitados;
+  b. soma;
+  c. média;
+  d. maior valor;
+  e. menor valor;
+  f. quantidade de números pares;
+  g. quantidade de números ímpares;
+  h. informe se determinado número X está presente no vetor. 
