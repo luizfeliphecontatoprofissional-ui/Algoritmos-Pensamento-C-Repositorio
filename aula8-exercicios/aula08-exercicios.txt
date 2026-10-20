@@ -45,7 +45,7 @@ Matrizes
 
 17. Leia uma matriz 3x3 e determine o maior valor armazenado.   
 
-18. Leia uma matriz 2x3 e calcule a soma dos elementos da diagonal principal.   
+18. Leia uma matriz 3x3 e calcule a soma dos elementos da diagonal principal.   
 
 19. Leia uma matriz 5x5 e informe:
 	a. maior valor;
