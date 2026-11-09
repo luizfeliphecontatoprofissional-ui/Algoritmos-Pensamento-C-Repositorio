@@ -1,0 +1,104 @@
+1. Vetores
+
+a. Uma livraria deseja registrar a quantidade de exemplares vendidos de um livro durante os últimos 12 meses. Armazene os dados em um vetor e informe em quais meses as vendas ficaram acima da média anual.
+
+b. Uma empresa monitora a temperatura de um servidor durante 24 horas. Armazene as temperaturas em um vetor e identifique a maior sequência consecutiva de horas em que a temperatura ficou acima de um valor crítico informado pelo usuário.
+
+c. Uma plataforma de streaming registra a quantidade de reproduções de uma música ao longo de 30 dias. Determine em quais dias houve crescimento em relação ao dia anterior.
+
+d. Uma corrida de kart possui 15 voltas. Armazene os tempos de cada volta de um piloto e identifique quantas vezes ele conseguiu melhorar seu próprio recorde.
+
+e. Uma pesquisa de satisfação registra respostas de 1 a 5. Armazene as respostas em um vetor e determine qual nota apareceu com maior frequência.
+
+f. Uma escola registra a presença diária de um aluno durante um mês utilizando 1 para presença e 0 para falta. Determine o maior período consecutivo de presenças.
+
+g. Uma loja registra o faturamento diário do mês. Identifique o período de três dias consecutivos que apresentou o maior faturamento acumulado.
+
+2. Matrizes
+
+a. Uma sala de cinema possui 8 fileiras e 10 poltronas. Utilize uma matriz para registrar assentos ocupados e livres. Apresente a quantidade de lugares disponíveis em cada fileira.
+
+b. Uma competição possui 5 jurados avaliando 8 participantes. Armazene as notas em uma matriz e determine qual participante obteve a maior pontuação total.
+
+c. Uma universidade registra as notas de 20 alunos em 4 avaliações. Determine qual avaliação apresentou a maior média da turma.
+
+d. Uma empresa registra as vendas de 6 vendedores em 7 dias da semana. Informe o vendedor com maior volume total de vendas.
+
+e. Um estacionamento registra a ocupação de vagas ao longo de 24 horas durante 7 dias. Identifique o dia que apresentou maior utilização média.
+
+f. Uma fazenda monitora a produção diária de leite em diferentes setores. Utilizando uma matriz, determine quais setores apresentaram crescimento de produção ao longo da semana.
+
+g. Uma matriz representa um mapa onde 0 indica área livre e 1 indica obstáculo. Determine quantos obstáculos existem em cada linha e qual linha possui a maior quantidade deles.
+
+3. Funções
+
+a. Crie uma função que receba o consumo de combustível e a distância percorrida e retorne a eficiência de um veículo.
+
+b. Crie uma função que receba três horários (entrada, saída para almoço e retorno) e retorne a quantidade total de horas trabalhadas.
+
+c. Crie uma função que receba um vetor contendo temperaturas e retorne a amplitude térmica do período analisado.
+
+d. Crie uma função que receba uma matriz de vendas e retorne o índice do vendedor com melhor desempenho.
+
+e. Crie uma função que receba um vetor representando notas de avaliações e retorne a posição da maior sequência crescente encontrada.
+
+f. Crie uma função que receba um vetor representando preços de produtos e retorne quantos reajustes seriam necessários para que os preços fiquem em ordem crescente.
+
+g. Desenvolva um programa utilizando múltiplas funções para gerenciar uma competição esportiva, separando responsabilidades como cadastro, cálculo de pontuação e exibição de resultados.
+
+4. Structs
+
+a. Crie uma struct para representar um livro contendo título, autor, ano e quantidade disponível. Cadastre 10 livros e informe o mais antigo.
+
+b. Crie uma struct para representar um estudante contendo nome, matrícula e frequência. Identifique os alunos com frequência abaixo de um percentual informado.
+
+c. Crie uma struct para representar veículos de uma locadora. Cadastre diversos veículos e identifique quais possuem mais de 10 anos de fabricação.
+
+d. Crie uma struct para representar atletas contendo nome, modalidade e pontuação. Determine o atleta com melhor desempenho.
+
+e. Crie uma struct para representar produtos de um supermercado. Cadastre diversos produtos e encontre os três mais caros.
+
+f. Crie uma struct para representar séries de streaming contendo título, quantidade de episódios e nota média dos usuários. Informe a série com a melhor avaliação.
+
+g. Crie uma struct para representar pacientes de uma clínica. Permita pesquisar um paciente pelo nome e exibir todos os seus dados.
+
+5. Ponteiros
+
+a. Declare uma variável inteira e um ponteiro para ela. Exiba o valor da variável, seu endereço e o conteúdo armazenado no ponteiro.
+
+b. Crie duas variáveis reais e utilize ponteiros para determinar qual possui o maior valor sem acessar diretamente as variáveis após a atribuição inicial.
+
+c. Utilize um ponteiro para percorrer um vetor de inteiros e contar quantos elementos são múltiplos de um número informado pelo usuário.
+
+d. Utilize aritmética de ponteiros para identificar o maior elemento de um vetor sem utilizar a sintaxe tradicional de índices.
+
+e. Crie uma struct para representar um produto e utilize um ponteiro para alterar seu preço sem acessar diretamente a variável da struct.
+
+f. Crie uma função que receba duas variáveis inteiras por referência e organize seus valores em ordem crescente.
+
+g. Crie um sistema simples de cadastro de alunos utilizando structs. Desenvolva uma função que receba um aluno por referência e atualize sua média final. A alteração deve refletir na 
+
+estrutura original após o término da função.
+
+6. Desafios Integradores
+
+a. Desenvolva um sistema de biblioteca utilizando:
+- Vetor de structs;
+- Funções para cadastro e consulta;
+- Ponteiros para atualização de registros;
+- Busca por título ou autor.
+
+b. Desenvolva um sistema acadêmico contendo:
+- Matriz de notas;
+- Struct de aluno;
+- Funções para cálculos;
+- Passagem por referência para atualização dos registros;
+- Geração de ranking dos estudantes.
+
+c. Desenvolva um sistema de controle de estoque que integre:
+- Vetores;
+- Structs;
+- Funções;
+- Busca;
+- Processamento de dados;
+- Ponteiros para atualização de produtos cadastrados.
