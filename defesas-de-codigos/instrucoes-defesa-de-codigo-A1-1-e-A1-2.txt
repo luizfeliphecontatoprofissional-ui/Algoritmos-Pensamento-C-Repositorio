@@ -1,0 +1,82 @@
+==================================================
+A2-1 — PRIMEIRA DEFESA DE CÓDIGO
+==================================================
+
+Objetivo:
+Desenvolver, em equipe, um programa em linguagem C que resolva um problema real escolhido pelo grupo.
+
+O tema é livre, desde que o programa utilize os conteúdos exigidos na atividade.
+
+Requisitos principais:
+- Utilizar estruturas de decisão, como if, else if e else.
+- Utilizar pelo menos uma estrutura de repetição: for, while ou do-while.
+- Armazenar informações em um vetor.
+- Implementar pelo menos uma busca no vetor.
+- Realizar algum processamento dos dados, como soma, média, contagem, maior ou menor valor.
+- Apresentar os resultados de maneira organizada.
+
+Entregas:
+- Código-fonte em C, comentado e organizado.
+- Breve descrição do problema escolhido.
+- Identificação das entradas, do processamento e das saídas.
+- Teste de mesa com um cenário representativo.
+
+Avaliação:
+A atividade considera o uso correto de operadores e estruturas de decisão, estruturas de repetição, vetores, busca e processamento dos dados. Também há avaliação da defesa do código, da clareza na explicação e do funcionamento do programa.
+
+A defesa exige que o estudante conheça o código e consiga explicar como a solução funciona. Respostas incorretas, incompletas ou ausência de domínio podem gerar descontos na nota.
+
+==================================================
+A2-2 — SEGUNDA DEFESA DE CÓDIGO
+==================================================
+
+Objetivo:
+Desenvolver uma solução em C que amplie os conteúdos trabalhados na primeira atividade. Nesta etapa, o foco passa a incluir funções, structs e arquivos, sem deixar de utilizar os conceitos anteriores.
+
+A A2-2 pode ser desenvolvida como uma continuação ou evolução do projeto da A2-1. Assim, é possível aproveitar a ideia e a base do primeiro programa e acrescentar as novas funcionalidades e exigências. O enunciado apresenta a segunda atividade como uma evolução natural da primeira, embora não detalhe expressamente uma regra de reaproveitamento obrigatório do mesmo código.
+
+Novos requisitos principais:
+
+1. Structs
+- Utilizar pelo menos uma struct para representar uma entidade do sistema.
+- Utilizar um vetor de structs para armazenar vários registros.
+
+2. Funções
+- Implementar pelo menos quatro funções criadas pela equipe.
+- Pelo menos uma função deve receber parâmetros.
+- Pelo menos uma função deve retornar um valor.
+
+3. Arquivos
+- Salvar os dados em arquivo texto ou binário.
+- Ler os dados que já foram salvos.
+- Permitir recuperar informações cadastradas em uma execução anterior do programa.
+
+4. Lógica do sistema
+- Continuar utilizando estruturas de decisão (if, else if e else).
+- Utilizar estruturas de repetição (for, while ou do-while).
+- Implementar pelo menos uma busca nos registros cadastrados.
+- Realizar pelo menos um processamento dos dados.
+
+Defesa:
+O desenvolvimento é feito em equipe, mas a defesa é individual. Cada integrante precisa demonstrar que conhece o projeto.
+
+Durante a defesa, o professor pode pedir para:
+- Explicar o problema escolhido.
+- Explicar como o sistema está organizado.
+- Executar funcionalidades do programa.
+- Explicar trechos ou comandos específicos do código.
+
+A nota é individual. Fazer parte da equipe não garante a mesma nota dos demais integrantes. Respostas imprecisas, incorretas ou falta de domínio do código podem gerar descontos.
+
+==================================================
+RESUMO DA EVOLUÇÃO ENTRE AS DUAS ATIVIDADES
+==================================================
+
+Na A2-1, o projeto trabalha principalmente com decisões, repetições, vetores, buscas e processamento de dados.
+
+Na A2-2, a proposta é evoluir essa solução, acrescentando:
+- Structs e vetores de structs para organizar vários registros.
+- Funções para dividir o programa em partes menores e organizar as responsabilidades.
+- Arquivos para salvar e recuperar dados entre diferentes execuções.
+
+Os conceitos da primeira atividade continuam fazendo parte do sistema. A segunda etapa acrescenta recursos e exige uma solução mais organizada e completa.
