@@ -68,6 +68,16 @@ Funções
 
 Exercícios e desafios com os assuntos anteriores reunidos.
 
+# Exercicios-Aula10:
+
+Exercícios de **ponteiros** para prática.
+
+6 Exercícios
+
+Ponteiros
+
+Vetores
+
 # Defesas-de-codigos:
 **A2-1:**
 Desenvolvimento de um sistema para resolver um **problema real**, trabalhando conceitos como:
