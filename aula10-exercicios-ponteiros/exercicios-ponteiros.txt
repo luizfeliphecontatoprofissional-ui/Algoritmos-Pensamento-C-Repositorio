@@ -1,0 +1,16 @@
+1. Receba um valor inteiro do usuário e possibilite alterá-lo por meio de um ponteiro chamado ptr para o valor de 2 * x.
+
+2. Solicite 2 números inteiros a e b, aponte ptrA para a e ptrB para b.
+- Exiba a soma dos números acessados pelos ponteiros.
+- Exiba a multiplicação dos números pelos ponteiros.
+
+3. Receba 2 valores inteiros x e y, faça um ponteiro para cada um e compare os valores pelos ponteiros, informando se:
+- x é maior;
+- y é maior;
+- São iguais.
+
+4. Faça um programa que receba 2 valores inteiros e troque os valores usando ponteiros (sem função).
+
+5. Declare um vetor de inteiros de 5 posições. Solicite os números ao usuário, declare um ponteiro para inteiro, aponte para a primeira posição do vetor e utilize um for para exibir os valores do vetor utilizando o ponteiro.
+
+6. Some os elementos do vetor criado no exercício anterior usando um ponteiro.
