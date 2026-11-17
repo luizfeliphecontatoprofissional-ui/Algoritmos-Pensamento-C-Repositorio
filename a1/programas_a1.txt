@@ -1,0 +1,84 @@
+AVALIAÇÃO DE C - PROGRAMAS UTILIZADOS NA PROVA
+
+A avaliação apresentou códigos prontos e cobrou sua interpretação. O tipo de pergunta envolvia identificar o que determinada função faz, acompanhar as chamadas de funcoes, entender condicoes e estruturas de repeticao e descobrir como os valores das variaveis mudam ate a saida do programa.
+
+Observacao: os focos abaixo foram organizados a partir dos códigos e do formato de cobranca relatado. Não são transcrições literais das perguntas da prova.
+
+--------------------------------------------------
+PROGRAMA 1 - OPERAÇÕES E ESTRUTURAS CONDICIONAIS
+--------------------------------------------------
+Descrição:
+Realiza uma expressão aritmetica e, em seguida, altera o resultado por meio de uma estrutura if / else if / else e de outra condição com operador logico NOT (!).
+
+Foco da avaliação:
+Interpretar a ordem das operações, avaliar os operadores relacionais e logicos (&&, || e !) e acompanhar qual bloco condicional sera executado.
+
+Saida do programa: 24
+
+--------------------------------------------------
+PROGRAMA 2 - LAÇOS DE REPETIÇÃO E ACUMULADORES
+--------------------------------------------------
+Descrição:
+Combina dois laços for, um while e um do-while. O programa atualiza acumuladores e contadores com base em condições envolvendo paridade e divisibilidade por 3.
+
+Foco da avaliação:
+Acompanhar a execucao de laços alinhados, verificar quando as condições sao verdadeiras, entender o uso do operador modulo (%) e diferenciar o funcionamento de while e do-while.
+
+Saida do programa: 24 1 10
+
+--------------------------------------------------
+PROGRAMA 3 - VETOR, CONTAGEM, SOMA E MAIOR VALOR
+--------------------------------------------------
+Descrição:
+Percorre um vetor de 8 inteiros. Soma seus elementos, conta quantas vezes o valor 3 aparece, identifica o maior elemento e depois subtrai da soma uma unidade para cada numero par.
+
+Foco da avaliação:
+Interpretar o acesso aos elementos do vetor, acompanhar variaveis contadoras e acumuladoras, identificar o maior valor e entender as condições dentro dos laços for e while.
+
+Saida do programa: 3 9 40
+
+--------------------------------------------------
+PROGRAMA 4 - MATRIZ E FUNÇÕES COM RETORNO
+--------------------------------------------------
+Descrição:
+Trabalha com uma matriz 3x3 e duas funções. A função f1 soma os valores pares da matriz; a função f2 encontra o maior valor. No main, o resultado da primeira função ainda passa por uma condicao antes de ser exibido.
+
+Foco da avaliação:
+Entender o uso de laços alinhados para percorrer uma matriz, identificar o objetivo de cada função, acompanhar os valores retornados e avaliar a condição final.
+
+Saida do programa: 15 9
+
+--------------------------------------------------
+PROGRAMA 5 - STRUCT, FUNÇÕES E ARQUIVO TXT
+--------------------------------------------------
+Descrição:
+Define a struct T1, com dois campos inteiros, e cria um vetor com quatro registros. A função f1 grava os campos dos registros no arquivo dados.txt. A função f2 conta quantos registros possuem o segundo campo maior que 5.
+
+Foco da avaliação:
+Interpretar a passagem de um vetor de structs para uma função, entender a gravacao em arquivo com fopen, fprintf e fclose e identificar o valor retornado pela função de contagem.
+
+Saida do programa: 3
+
+--------------------------------------------------
+PROGRAMA 6 - PONTEIROS E FUNÇÕES
+--------------------------------------------------
+Descrição:
+Possui duas funções. A função f1 recebe um ponteiro para inteiro e soma 3 ao valor apontado. A função f2 percorre um vetor de 5 inteiros e, por meio de um ponteiro, incrementa um contador para cada elemento par. No main, as funções sao chamadas passando endereços de variaveis.
+
+Foco da avaliação:
+Entender a declaração e o uso de ponteiros, a diferenca entre passar um valor e passar um endereço, o efeito de alterar uma variavel por meio de * e o que acontece em cada chamada de função.
+
+Saida do programa: 4 6
+
+--------------------------------------------------
+RESUMO DOS ASSUNTOS QUE APARECERAM
+--------------------------------------------------
+- Operações aritmeticas e operadores lógicos.
+- Estruturas condicionais (if, else if e else).
+- Laços for, while e do-while, inclusive laços aninhados.
+- Vetores e matrizes.
+- Contadores, acumuladores, soma, maior valor e operador modulo (%).
+- Funções, parametros e valores de retorno.
+- Structs e vetores de structs.
+- Arquivos de texto e operações de escrita.
+- Ponteiros, endereços de memoria e alteração de valores por referencia.
