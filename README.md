@@ -109,6 +109,10 @@ Integração dos conceitos estudados anteriormente
 
 As atividades também envolvem a defesa individual do código, exigindo conhecimento sobre a estrutura, o funcionamento e a implementação do projeto.
 
+# A1:
+
+A avaliação final apresentou 6 programas prontos e cobrou sua interpretação conforme o conteúdo estudado na matéria. 
+
 # Organização
 
 Praticar os fundamentos da programação em C, desenvolver a lógica de programação e consolidar os conceitos apresentados durante as aulas.
